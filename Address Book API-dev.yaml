@@ -1,2 +1,4 @@
 address-book:
     disable-security: false
+new:
+    prop: "dev thing"
