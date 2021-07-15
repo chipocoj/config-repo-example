@@ -2,3 +2,9 @@ address-book:
     disable-security: false
 new:
     prop: "newer dev thing - from github"
+spring:
+    cloud:
+        config:
+            allow-override: true
+            override-none: false
+            override-system-properties: true
