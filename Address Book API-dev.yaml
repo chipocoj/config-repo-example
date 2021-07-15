@@ -1,4 +1,4 @@
 address-book:
     disable-security: false
 new:
-    prop: "newer dev thing"
+    prop: "newer dev thing - from github"
